@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@alexisjps
-jaflesch
-/
-tinder-autolike
-7
-101
-45
-Code
-Issues
-10
-Pull requests
-5
-Actions
-Projects
-Wiki
-Security
-Insights
-tinder-autolike/autolike.js /
-@furidngrt
-furidngrt Update autolike.js
-Latest commit b82681e on 25 Sep
- History
- 4 contributors
-@jaflesch@Lusitaniae@Sphinxs@furidngrt
-141 lines (119 sloc)  3.49 KB
-
-
 function hasBlacklistKeywords(bio) {
   const blacklist = [
     'ladyboy',
@@ -173,15 +138,3 @@ function getRandomPeriod() {
     }
   }, randomPeriod);
 }());
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
